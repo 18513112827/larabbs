@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
+                    {{ config('app.url') }}
                 </div>
 
                 <div class="links">
